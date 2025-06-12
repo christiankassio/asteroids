@@ -1,2 +1,11 @@
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# Other common unwanted files
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
 venv/
-__pychache__/
